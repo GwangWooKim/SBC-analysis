@@ -1,4 +1,4 @@
-<img src="/imgs/SBC.jpg" width="35%" height="35%">
+<img src="/imgs/SBC.jpg" width="45%" height="45%">
 Myungin Baek et al., Molecular Logic of Spinocerebellar Tract Neuron Diversity and Connectivity, Cell Reports, 2019.
 
 # SBC-analysis
