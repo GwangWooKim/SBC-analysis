@@ -8,10 +8,10 @@ This repository contains codes which are used in analyzing the data from DISIST.
 * The code 92-113 might not be able to work. I will deal with this part after getting the data.
 
 ## Background
-Suppose we have a `n_gene` by `n_cell` matrix. (it is ok to understand gene as feature if you want). Each cell follows from a known population. In this situation, which genes represent the populations? how much represent? 
+Suppose we have a `n_gene` by `n_cell` matrix. (it is ok to understand gene as feature if you want). Each cell follows from a known population. In this situation, which genes represent a populations? how much does? 
 
 ## Method
-Statistical models give good answers. "How much" is arranged by p-value and "Which" is determined by genes having lower p-value. (e.g. <0.05)
+Statistical models give us good answers. "How much" is arranged by p-value and "Which" is determined by genes having lower p-value. (e.g. <0.05)
 
 ## Results (partial)
 <img src="/imgs/result1.png" width="70%" height="70%">
