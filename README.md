@@ -1,4 +1,4 @@
-<img src="/imgs/SBC.jpg" width="45%" height="45%">
+<img src="/imgs/SBC.jpg" width="50%" height="50%">
 Myungin Baek et al., Molecular Logic of Spinocerebellar Tract Neuron Diversity and Connectivity, Cell Reports, 2019.
 
 # SBC-analysis
@@ -8,4 +8,6 @@ This repository contains codes which are used in analyzing the data from DISIST.
 * The code 92-113 might not be able to work. I will deal with this part after getting the data.
 
 ## Results (partial)
-
+<img src="/imgs/result1.png" width="50%" height="50%">
+<img src="/imgs/result2.png" width="50%" height="50%">
+<img src="/imgs/result3.png" width="50%" height="50%">
