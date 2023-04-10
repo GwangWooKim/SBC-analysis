@@ -11,7 +11,7 @@ This repository contains codes which are used in analyzing the data from DISIST.
 Suppose we have a `n_gene` by `n_cell` matrix. (it is ok to understand a gene as a feature and a cell as one datapoint if you want). Each cell follows from a known population. In this situation, which genes represent a populations? how much represent? 
 
 ## Method
-Statistical models give us good answers. "How much" is arranged by p-value and "Which" is determined by genes having lower p-value.
+Statistical models give us good answers. "How much" is arranged by p-value and "Which" is determined by genes having lower p-value. But, if there is [covariate effect](https://en.wikipedia.org/wiki/Batch_effect), we should adjust the original data or establish a corrected data matrix.  
 
 ## Results (partial)
 <img src="/imgs/result1.png" width="70%" height="70%">
