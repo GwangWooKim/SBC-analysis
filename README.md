@@ -9,5 +9,8 @@ This repository contains codes which are used in analyzing the data from DISIST.
 
 ## Results (partial)
 <img src="/imgs/result1.png" width="70%" height="70%">
+This figure shows that 40% genes are filltered out (that is, they are not tested whether each of them is meaningful or not)
 <img src="/imgs/result2.png" width="70%" height="70%">
+The same result of the previous figure, but different aspect. Indeed, the more meaningless (higher p-value) it was, the less tested it was.
 <img src="/imgs/result3.png" width="100%" height="100%">
+A final output of DESeq2 with some genes
