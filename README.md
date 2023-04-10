@@ -20,5 +20,5 @@ This figure shows that 40% genes are filtered out (that is, they are not tested 
 The same result of the previous figure, but different aspect. Indeed, the more meaningless (higher p-value) it was, the less tested it was.
 <img src="/imgs/result3.png" width="100%" height="100%">
 A final output of DESeq2 with some genes
-<img src="/imgs/result3.png" width="100%" height="100%">
-Gene clustering result. More results can be fonund in Draft_1_4.pptx.
+<img src="/imgs/result4.png" width="100%" height="100%">
+A gene clustering result. More results can be fonund in Draft_1_4.pptx.
