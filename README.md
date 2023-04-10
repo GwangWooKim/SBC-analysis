@@ -4,5 +4,8 @@ Myungin Baek et al., Molecular Logic of Spinocerebellar Tract Neuron Diversity a
 # SBC-analysis
 This repository contains codes which are used in analyzing the data from DISIST. Note that 
 * We can't provide the used data (`merged_count_matrix_3`) and its metadata (`condtion_3`)
-* During analyzing, we figure out that the used dataset has problems (in preprocessing-level). So DIGIST has been resolving this problem. We will re-analyze the corrected data and report results.
+* During analyzing, __we figure out that the used dataset has problems (in preprocessing-level). So DIGIST has been resolving this problem. We will re-analyze the corrected data and report results.__
 * The code 92-113 might not be able to work. I will deal with this part after getting the data.
+
+## Results (partial)
+
